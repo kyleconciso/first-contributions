@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Amir](https://github.com/amir1611)
+- [kyleconciso](https://github.com/kyleconciso)
 - [Andujar Brutus](https://github.com/Brutusa)
 - [Borhan Uddin](https://github.com/borhan-dev/)
 - [Angela Yuan] (https://github.com/AngelaSYuan/)
